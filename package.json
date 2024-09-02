@@ -1,0 +1,16 @@
+{
+  "name": "atjs6",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "cypress run",
+    "test1": "npx cypress open"
+  },
+  "keywords": [],
+  "author": "Ivanov Denis",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^13.14.1"
+  }
+}
